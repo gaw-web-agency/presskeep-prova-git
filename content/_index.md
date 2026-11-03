@@ -5,7 +5,7 @@ description: "Sito finto per il collaudo di PressKeep: nessun dato reale."
 
 # Dolci fatti a mano ogni mattina
 
-Siamo una pasticceria di prova. Questo testo serve solo a collaudare il connettore Git di PressKeep.
+Benvenuti nella nostra pasticceria di prova, siamo felici di avervi qui. Questo testo serve solo a collaudare il connettore Git di PressKeep.
 
 ## Orari
 
