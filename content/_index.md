@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Prova, dolci artigianali"
-description: "Sito finto per il collaudo di PressKeep: nessun dato reale."
+description: "Prova alert(1) con accenti àèìòù, virgolette \"e\" & simboli grassetto."
 ---
 
 # Dolci fatti a mano ogni mattina
