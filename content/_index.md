@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Prova, dolci artigianali"
-description: "Prova alert(1) con accenti àèìòù, virgolette \"e\" & simboli grassetto."
+description: "Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il"
 ---
 
 # Dolci fatti a mano ogni mattina
