@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Prova, dolci artigianali"
-description: "Sito finto per il collaudo di PressKeep: nessun dato reale."
+description: "Testo cambiato dal collaudo PressKeep alle 19:24:12."
 ---
 
 # Dolci fatti a mano ogni mattina
