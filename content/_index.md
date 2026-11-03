@@ -1,6 +1,6 @@
 ---
 title: "Pasticceria Prova, dolci artigianali"
-description: "Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il collaudo. Questo è un testo molto lungo per il"
+description: "Sito finto per il collaudo di PressKeep: nessun dato reale."
 ---
 
 # Dolci fatti a mano ogni mattina
