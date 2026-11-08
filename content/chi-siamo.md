@@ -5,7 +5,7 @@ description: "La storia della pasticceria di prova."
 
 ## La nostra storia
 
-Abbiamo aperto nel 1985. Ogni giorno prepariamo cornetti, torte e biscotti con ingredienti semplici.
+Dal 1985 prepariamo ogni giorno con cura cornetti, torte e biscotti, usando ingredienti semplici.
 
 ## Il laboratorio
 
