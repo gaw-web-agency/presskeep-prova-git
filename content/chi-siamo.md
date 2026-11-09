@@ -11,4 +11,4 @@ Abbiamo aperto nel 1985. Ogni giorno prepariamo cornetti, torte e biscotti con i
 
 Il laboratorio e' dietro il negozio: puoi vederci lavorare dalla vetrina.
 
-![Cornetti appena sfornati sul bancone](/images/cornetti.jpg)
+![Sfondo sfumato dall'arancione chiaro all'azzurro con una grande ellisse arancione al centro](/images/sfondo-sfumato-arancione-azzurro-ellisse.jpg)
