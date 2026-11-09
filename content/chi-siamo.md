@@ -1,6 +1,6 @@
 ---
 title: "Chi siamo"
-description: "Scopri la storia della nostra pasticceria di prova."
+description: "La storia della pasticceria di prova."
 ---
 
 ## La nostra storia
