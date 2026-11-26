@@ -1,6 +1,6 @@
 ---
-title: "Chi siamo"
-description: "La storia della pasticceria di prova."
+title: "Titolo 100"
+description: "Prova 100 x"
 ---
 
 ## La nostra storia
